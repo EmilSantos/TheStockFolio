@@ -1,5 +1,5 @@
 # TheStockFolio
-A simple web app for keeping track of my stocks
+A simple web app for keeping track of my stocks, with the use of the Python/Django framework.
 
 
 
